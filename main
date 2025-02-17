@@ -1,0 +1,35 @@
+## EP Label Opname App
+
+### Features:
+- **Foto uploaden** en weergeven
+- **Bosch Disto verbinden via Bluetooth**
+- **Afstand meten en opslaan in een lijst**
+- **GitHub-ready structuur** voor eenvoudige implementatie en versiebeheer
+
+### Installatie & Gebruik
+1. **Clone de repository:**
+   ```sh
+   git clone https://github.com/jouw-gebruikersnaam/ep-label-opname.git
+   cd ep-label-opname
+   ```
+2. **Installeer dependencies:**
+   ```sh
+   npm install
+   ```
+3. **Start de applicatie:**
+   ```sh
+   npm start
+   ```
+
+### Structuur
+- `/src` → Hoofdcode van de applicatie
+- `/components` → Herbruikbare React-componenten
+- `/hooks` → Custom hooks voor Bluetooth en file uploads
+- `/assets` → Statische bestanden zoals afbeeldingen en iconen
+
+### Toekomstige Uitbreidingen 
+- **PDF-export functionaliteit**
+- **Airtable koppeling voor gegevensbeheer**
+- **Maatvoering direct op foto tekenen**
+
+
